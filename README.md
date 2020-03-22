@@ -8,7 +8,7 @@ https://eric-tic-tac-toe.netlify.com/
 
 ##
 
-![Picture of TicTacToe Projet](/images/tictac.png)
+![Picture of TicTacToe Projet](/CSS/images/tictac.png)
 
 ## Languages Used
 
